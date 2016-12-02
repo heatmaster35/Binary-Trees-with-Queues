@@ -1,0 +1,23 @@
+###################################
+# Name: Anthony Lampi & Leo Gomez #
+# CruzID: alampi & legomez        #
+# Class: CMPS-12B                 #
+# Date: Nov 19, 2014              #
+# filename: README                #
+# Details: a simple list of all   #
+#    files submited for asg3      #
+###################################
+
+This is a paired programing assignment completed by:
+(name)		(cruzID)
+Leo Gomez	legomez
+Anthony Lampi	alampi
+
+
+- README
+- Makefile
+- auxlib.java
+- Queue.java
+- Tree.java
+- xref.java
+
